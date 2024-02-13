@@ -48,12 +48,7 @@
 
 $(document).ready(function () {
     var urls = [
-        "https://t.me/emma770055",
-        "https://t.me/eemma556543",
-        "https://t.me/emma88765",
-        "https://t.me/Aliyah88990",
-        "https://t.me/Aliya66547",
-        "https://t.me/Aliyah0099",
+        "https://t.me/1", 
     ];
 
     var currentIndex = 0;
@@ -69,15 +64,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
     var urls = [
-        "https：//wa.me/8562051670705",
-        "https：//wa.me/66946901394",
-        "https：//wa.me/8562093356297",
-        "https：//wa.me/8562059879524",
-        "https：//wa.me/8562095501365",
-        "https：//wa.me/8562052488671",
-        "https：//wa.me/8562052479404",
-        "https：//wa.me/8562093309282",
-        "https：//wa.me/8562051759802"
+        "https：//wa.me/1", 
     ];
 
     var currentIndex = 0;
